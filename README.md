@@ -1,4 +1,4 @@
-Sparks Foundation Internship Project : Basic Banking System  
+Sparks Foundation Internship Project : Basic Banking System  / Bharat Bank
 A Web Application used to transfer money between multiple users.  
 
 Stack used - 
